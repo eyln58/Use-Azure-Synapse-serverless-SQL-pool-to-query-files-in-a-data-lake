@@ -40,4 +40,4 @@ This project highlights my hands-on experience with **Azure Synapse Analytics**,
 * I gained an appreciation for the power of SQL in big data analytics and the flexibility of Azure Synapse Analytics.
 
 ## Contact Me
-If you'd like to learn more about this project, feel free to reach out to me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eyilan/)
+If you'd like to learn more about this project, feel free to reach out to me on LinkedIn(https://www.linkedin.com/in/eyilan/)
